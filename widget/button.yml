@@ -1,0 +1,13 @@
+-
+  type: a
+  attribute:
+    data-id: rs:id
+    onclick: PluginElementFullscreen.toogle(this, this.getAttribute('data-id'))
+  innerHTML:
+    -
+      type: widget
+      data:
+        plugin: 'icons/octicons'
+        method: svg
+        data:
+          name: screen-full

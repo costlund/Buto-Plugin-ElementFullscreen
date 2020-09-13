@@ -1,0 +1,16 @@
+-
+  type: widget
+  data:
+    plugin: 'wf/embed'
+    method: embed
+    data:
+      type: script
+      file: /plugin/element/fullscreen/js/PluginElementFullscreen.js
+-
+  type: widget
+  data:
+    plugin: 'wf/embed'
+    method: embed
+    data:
+      type: style
+      file: /plugin/element/fullscreen/css/PluginElementFullscreen.css
