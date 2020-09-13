@@ -14,5 +14,5 @@ data:
   plugin: 'element/fullscreen'
   method: button
   data:
-    id: traning_fullscreen_div
+    id: _id_of_div_to_toogle_fullscreen_
 ```
