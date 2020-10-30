@@ -1,5 +1,8 @@
 <?php
 class PluginElementFullscreen{
+  function __construct(){
+    wfPlugin::enable('icons/octicons');
+  }
   public function widget_embed($data){
     wfPlugin::includeonce('wf/yml');
     $widget = new PluginWfYml(__DIR__.'/widget/embed.yml');

@@ -1,5 +1,6 @@
 # Buto-Plugin-ElementFullscreen
 Transform a div element to full screen from an icon button.
+Does not work in Bootstrap Modals very well.
 ## Embed CSS and Javascript.
 ```
 type: widget
